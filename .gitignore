@@ -1,0 +1,25 @@
+# ignore all node things
+node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# ignore all build things
+build
+dist
+# ignore all test things
+coverage
+# ignore all storybook things
+storybook-static
+# ignore all editor things
+.vscode
+.idea
+*.iml
+# ignore all OS things
+.DS_Store
+Thumbs.db
